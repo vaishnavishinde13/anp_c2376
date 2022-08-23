@@ -1,6 +1,6 @@
 package question1.model;
 
-public class Customer {
+public class Customer {this
 	private int Id;
 	private String Name;
 	private int Age;
@@ -8,7 +8,7 @@ public class Customer {
      public Customer(){
 	   Id=123;
 	   Name= "Vaishnavi";
-	   Age=21;
+	   Age=10;
 		}
 		public Customer(int id, String name, int age){
 		Id=id;

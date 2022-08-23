@@ -5,7 +5,7 @@ public class CustomerView {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Customer customer= new Customer(234,"Vaishnavi",22);
+		Customer customer= new Customer();
 		CustomerService c=new CustomerService();
 		boolean eligible;
 		System.out.println(customer.getAge());
