@@ -1,6 +1,6 @@
 package question1.model;
 
-public class Customer {this
+public class Customer {
 	private int Id;
 	private String Name;
 	private int Age;
